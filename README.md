@@ -1,2 +1,3 @@
-The Movie Database, Data fetched from <a href="https://www.themoviedb.org">TMDB</a><br>
-<a href="https://leo-js-tmdb-app.herokuapp.com/">Visit The Movie Database Site</a>
+## <sub>The Movie Database
+  A site for seeing movies/shows details. <a href="https://thearkein.github.io/tmdb/">View Deployment</a><br>
+  Data is fetched from free API provided by <a href="https://www.themoviedb.org/">themoviedb.org</a>
